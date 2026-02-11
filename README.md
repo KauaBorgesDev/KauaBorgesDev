@@ -3,7 +3,7 @@ Olá 👋, sou um futuro GRANDE desenvolvedor!
 🚀 Estudante de Técnico em Desenvolvimento de Sistemas
 🇧🇷 Joinville, SC
 
-No SESI SENAI de Joinville, SC, estou construindo minha base em lógica de programação e desenvolvimento de software. Minha paixão é transformar ideias em soluções eficientes e inovadoras.
+No SESI SENAI de Joinville, SC, estou construindo minha base em lógica de programação e desenvolvimento de software.
 
 
 
@@ -23,12 +23,12 @@ Fundamentos: Banco de Dados, Redes, Lógica de Programação, Fundamentos de TI 
 
 ✨ O que me move
 
-Foco em codificar algoritmos, aplicar técnicas de programação e desenvolver soluções robustas.
+Foco em codificar algoritmos, aplicar técnicas de programação e desenvolver soluções.
 
 
 
 
 🚀 Minha Visão
 
-"Cada linha de código é uma oportunidade de aprendizado e inovação. Construindo o futuro, um projeto por vez."
+"Cada linha de código é uma oportunidade de aprendizado e inovação. Construindo um futuro melhor."
 
