@@ -1,4 +1,4 @@
-Olá 👋, sou um futuro desenvolvedor!
+Olá 👋, sou um futuro GRANDE desenvolvedor!
 
 🚀 Estudante de Técnico em Desenvolvimento de Sistemas
 🇧🇷 Joinville, SC
