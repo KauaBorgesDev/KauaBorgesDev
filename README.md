@@ -63,33 +63,6 @@ Análise e desenvolvimento de estruturas de dados (pilhas e filas).
 
 
 
-
-🌐 Onde me encontrar
-
-<p align="left">
-<!-- Adicione seus lins de redes sociais aqui, como GitHub, LinkedIn, etc. -->
-  <!-- Exemplo:
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
-  </a>
-  -->
-</p>
-
-
-
-
-📊 Estatísticas do GitHub (Opcional )
-
-<!-- Você pode adicionar suas estatísticas do GitHub aqui, como no modelo:
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" />
-</p>
--->
-
-
-
-
 🚀 Minha Filosofia
 
 
