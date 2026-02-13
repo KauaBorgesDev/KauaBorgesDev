@@ -28,7 +28,7 @@ Foco em codificar algoritmos, aplicar técnicas de programação e desenvolver s
 
 
 
-🚀 Minha Visão
+ Minha Visão
 
 "Cada linha de código é uma oportunidade de aprendizado e inovação. Construindo um futuro melhor!"
 
