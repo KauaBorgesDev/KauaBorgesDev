@@ -19,16 +19,3 @@ Fundamentos: Banco de Dados, Redes, Lógica de Programação, Fundamentos de TI 
 
 
 
-
-
- O que me move
-
-Foco em codificar algoritmos, aplicar técnicas de programação e desenvolver soluções.
-
-
-
-
- Minha Visão
-
-"Cada linha de código é uma oportunidade de aprendizado e inovação. Construindo um futuro melhor!"
-
