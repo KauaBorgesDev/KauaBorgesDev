@@ -1,6 +1,6 @@
 Olá 👋, sou um futuro GRANDE desenvolvedor!
 
-🚀 Estudante de Técnico em Desenvolvimento de Sistemas
+ Estudante de Técnico em Desenvolvimento de Sistemas
 🇧🇷 Joinville, SC
 
 No SESI SENAI de Joinville, SC, estou construindo minha base em Programação e Desenvolvimento.
@@ -9,7 +9,7 @@ No SESI SENAI de Joinville, SC, estou construindo minha base em Programação e 
 
 
 
-📚 Minhas Ferramentas e Conhecimentos
+ Minhas Ferramentas e Conhecimentos
 
 •
 Linguagens: Portugol, C (com foco em funções, structs e estruturas de dados).
@@ -21,7 +21,7 @@ Fundamentos: Banco de Dados, Redes, Lógica de Programação, Fundamentos de TI 
 
 
 
-✨ O que me move
+ O que me move
 
 Foco em codificar algoritmos, aplicar técnicas de programação e desenvolver soluções.
 
